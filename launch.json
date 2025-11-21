@@ -1,0 +1,14 @@
+{
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "name": "Python: Vectorizer AI",
+            "type": "debugpy",
+            "request": "launch",
+            "program": "${workspaceFolder}/vectorizer_ai.py",
+            "console": "integratedTerminal",
+            "justMyCode": true
+        }
+    ]
+}
+
